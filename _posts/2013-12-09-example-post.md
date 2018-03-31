@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example post
+title: Root First Post
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2017-12-09 12:00:00
 categories: posts
 ---
 
