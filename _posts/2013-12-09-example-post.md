@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Root First Post
+title: Welcome to Mukuro's Utopia.
 cover: cover.jpg
-date:   2017-12-09 12:00:00
+date:   1998.04.01 11:55:00
 categories: posts
 ---
 
-## Introducing Flex, a Jekyll theme
+## 你好，這裡是時良的私人博客。
 
 Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
 
