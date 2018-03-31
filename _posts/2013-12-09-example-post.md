@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Mukuro's Utopia.
-cover: cover.jpg
+cover: 時良（中）.jpg
 date:   1998.04.01 11:55:00
 categories: posts
 ---
