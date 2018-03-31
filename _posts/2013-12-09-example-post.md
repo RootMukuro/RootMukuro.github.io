@@ -6,10 +6,14 @@ date:   1998.04.01 11:55:00
 categories: posts
 ---
 
-## 你好，這裡是時良的私人博客。
+## Hi, strangers
 
-Flex is a minimalist, responsive theme based on the website, [The Development](http://thedevelopment.co).
+There is the personal blog from Root(Mukuro).
+This is my [Twitter](https://twitter.com).
+This is my [Lofter](http://www.lofter.com/blog/mr-mukuro).
 
-## Open Sourced on GitHub
+## 你好，陌生人。
 
-Flex is open sourced on GitHub and is licensed under the [MIT License](http://opensource.org/licenses/MIT). Feel free to contribute to it anytime!
+歡迎來到時良的個人博客。
+興趣愛好雜而廣泛，偶爾即興提筆，才疏學淺，言辭粗鄙。
+望諒解、望尊重。
