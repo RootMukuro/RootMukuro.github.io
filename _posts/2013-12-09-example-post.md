@@ -22,4 +22,6 @@ This is my [Lofter](http://www.lofter.com/blog/mr-mukuro).
 
 興趣愛好雜而廣泛，偶爾即興提筆，才疏學淺，言辭粗鄙。
 
+君子類交。
+
 望諒解、望尊重。
